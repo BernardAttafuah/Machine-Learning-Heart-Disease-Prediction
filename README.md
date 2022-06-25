@@ -16,6 +16,5 @@ The error was:
 5. Save the model on a pickle file for deployment
 6. Build a machine learning app using Streamlit's API for Heart Disease Prediction on the server
 
-testing
 
 
