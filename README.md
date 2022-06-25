@@ -1,6 +1,5 @@
 # Machine-Learning-Heart-Disease-Prediction
 #### As a means of testing my understanding on machine learning and it's application, I decided to engage in the following:
-The error was:
 #### **Objectives:**
 1. To build a machine Learning classification model to determine wheather an individual will get a heart disease or not based on features such as:
 <ul>
